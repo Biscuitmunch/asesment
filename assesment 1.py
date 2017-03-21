@@ -31,6 +31,7 @@ while True:
             #this is the menu mesage if the program has ran at leat once already
             print("Want to do anouther calculation", name, "? For volume of a cone enter 1, \n for surface area of a cone 2, to exit enter 0.")
             
+            #this takes the user input
             menu = input("")
 
         else:
